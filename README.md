@@ -15,7 +15,7 @@ These scripts are currently actively maintained and highly customized for specif
 
 ## Contact
 If you would like to request access or discuss the analysis pipeline, please feel free to reach out to me:
-* **Email:** Alexjiangzhe@outlook.com
+* **Email:** alexjiangzhe@outlook.com
 
 * Or simply open an **Issue** in this repository.
 
